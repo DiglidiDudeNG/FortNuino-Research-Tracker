@@ -11,7 +11,7 @@ Not only was it a learning experience, but also a useful gadget, so I hope relea
 
 ## Instructions
 
-> TL;DR: Assemble the schema in the picture, add `Time.h` and `TimeAlarms.h` to your libs, download, open, upload, ???, **PROFIT !**
+> TL;DR: Assemble the schema in the picture, add [`Time.h`](https://github.com/PaulStoffregen/Time) and [`TimeAlarms.h`](https://github.com/PaulStoffregen/TimeAlarms) to your libs, download, open, upload, ???, **PROFIT !**
 
 First, you need to assemble the circuitry schema that follows using :
 
@@ -58,7 +58,7 @@ _Note: The following instructions are the steps I personally take in order to ac
 5) As soon as it increases by 1, press "Collect" and reset your Arduino, all at the same time.
 6) Enjoy tracking your Research Points out of the Research menu !
 
-## What's next
+## What's next?
 
 If this gets enough people interested, I'd like to develop the whole concept of research points tracking further.
 
